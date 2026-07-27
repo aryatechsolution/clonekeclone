@@ -1,0 +1,10 @@
+{
+	"appId": "com.coliv.manager",
+	"appName": "CoLiv_Manager_app",
+	"webDir": "dist",
+	"plugins": {
+		"SplashScreen": {
+			"launchAutoHide": false
+		}
+	}
+}
